@@ -1,0 +1,201 @@
+Patient_ID,Age_years,Gender,Surgery_Type,Blood_Volume_mL,Hemolysis,Centrifuge_Status,Serum_Yield_Pct,Serum_Volume_mL,Turbidity_Score,Lipemic,Serum_Status,IL6_Level_pgmL,IL6_Flag,TNF_Level_pgmL,TNF_Flag,Clinical_Interpretation
+P001,72,Male,Abdominal,9.952,No,Pass,60.33,6.004,2.43,No,Ready,77.4085,Elevated,115.9336,Elevated,High Inflammatory Risk
+P002,39,Male,Orthopedic,8.87,No,Fail,64.62,0,9.41,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P003,56,Male,Thoracic,6.671,No,Pass,56.84,3.792,2.17,No,Ready,188.8871,Elevated,38.6021,Elevated,High Inflammatory Risk
+P004,59,Male,Orthopedic,5.445,Yes,Pass,60.1,3.272,4.98,No,Rejected,0,Normal,0,Normal,Sample Rejected
+P005,36,Female,Thoracic,5.925,No,Pass,58.44,3.462,8.21,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P006,25,Female,Abdominal,7.634,No,Pass,62.7,4.786,7.17,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P007,46,Male,Cardiac,7.086,No,Pass,63.03,4.466,7.06,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P008,72,Female,Cardiac,9.003,No,Pass,59.25,5.334,4.4,No,Ready,56.2505,Elevated,74.78,Elevated,High Inflammatory Risk
+P009,42,Female,Orthopedic,9.666,No,Pass,57.04,5.514,7.54,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P010,64,Male,Cardiac,5.889,No,Pass,55.67,3.279,9.2,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P011,33,Male,Neurological,9.3,Yes,Pass,56.99,5.3,4.41,No,Rejected,0,Normal,0,Normal,Sample Rejected
+P012,42,Male,Abdominal,9.787,No,Pass,57.72,5.649,5.28,No,Ready,171.6533,Elevated,47.0393,Elevated,High Inflammatory Risk
+P013,32,Male,Thoracic,9.797,No,Pass,60.99,5.975,0.66,No,Ready,18.5929,Elevated,3.7449,Normal,IL-6 Dominant Inflammation
+P014,61,Male,Thoracic,5.189,No,Pass,63.73,3.307,3.91,No,Ready,55.0269,Elevated,93.7469,Elevated,High Inflammatory Risk
+P015,60,Female,Cardiac,5.288,No,Pass,56.28,2.976,4.67,No,Ready,47.0177,Elevated,39.2498,Elevated,High Inflammatory Risk
+P016,60,Female,Orthopedic,5.029,No,Pass,64.58,3.248,8.95,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P017,37,Female,Abdominal,6.563,No,Pass,61.83,4.058,1.11,No,Ready,144.1091,Elevated,11.6598,Elevated,High Inflammatory Risk
+P018,60,Male,Abdominal,5.278,No,Pass,62.42,3.295,7.31,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P019,36,Female,Neurological,6.469,No,Fail,64.83,0,5.45,No,Rejected,0,Normal,0,Normal,Sample Rejected
+P020,46,Male,Abdominal,6.78,No,Pass,59.16,4.011,6.07,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P021,43,Male,Abdominal,9.768,No,Pass,60.32,5.892,0.3,No,Ready,25.795,Elevated,41.6279,Elevated,High Inflammatory Risk
+P022,43,Female,Orthopedic,7.385,No,Pass,61.79,4.563,1.47,No,Ready,11.0987,Elevated,7.7443,Normal,IL-6 Dominant Inflammation
+P023,27,Female,Thoracic,6.391,No,Pass,60.13,3.843,2.84,No,Ready,25.2157,Elevated,1.2196,Normal,IL-6 Dominant Inflammation
+P024,57,Female,Cardiac,7.515,No,Pass,57.99,4.358,0.05,No,Ready,84.5111,Elevated,80.2106,Elevated,High Inflammatory Risk
+P025,61,Female,Thoracic,8.217,No,Pass,56.05,4.606,6.69,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P026,56,Male,Cardiac,5.556,No,Pass,57.85,3.214,8.7,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P027,58,Male,Neurological,8.79,No,Pass,62.69,5.511,5.47,No,Ready,45.7407,Elevated,104.3512,Elevated,High Inflammatory Risk
+P028,33,Male,Orthopedic,9.26,No,Pass,61.41,5.686,5.43,No,Ready,20.3669,Elevated,2.8059,Normal,IL-6 Dominant Inflammation
+P029,32,Male,Thoracic,9.221,No,Pass,63.01,5.811,6.16,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P030,51,Female,Cardiac,9.453,No,Pass,60.17,5.688,3.02,No,Ready,57.4575,Elevated,92.0048,Elevated,High Inflammatory Risk
+P031,69,Male,Cardiac,6.909,No,Pass,57.32,3.96,3.67,No,Ready,92.6132,Elevated,63.2917,Elevated,High Inflammatory Risk
+P032,34,Male,Thoracic,7.219,No,Pass,61.28,4.424,5.75,No,Ready,27.6237,Elevated,3.2489,Normal,IL-6 Dominant Inflammation
+P033,48,Male,Abdominal,5.508,No,Pass,58.04,3.197,8.09,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P034,46,Female,Orthopedic,6.129,No,Pass,55.3,3.389,2.02,No,Ready,29.9312,Elevated,1.3526,Normal,IL-6 Dominant Inflammation
+P035,50,Female,Cardiac,9.857,No,Pass,64.03,6.312,3.28,No,Ready,37.8992,Elevated,34.5562,Elevated,High Inflammatory Risk
+P036,33,Male,Orthopedic,6.423,No,Pass,59.2,3.803,7.43,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P037,42,Male,Cardiac,9.537,No,Pass,59.26,5.652,3.41,No,Ready,165.1853,Elevated,60.146,Elevated,High Inflammatory Risk
+P038,38,Male,Orthopedic,9.453,No,Pass,62.41,5.9,0.48,No,Ready,20.5975,Elevated,3.9864,Normal,IL-6 Dominant Inflammation
+P039,68,Female,Thoracic,9.613,No,Pass,64.48,6.199,1.56,No,Ready,50.0099,Elevated,67.2933,Elevated,High Inflammatory Risk
+P040,65,Female,Thoracic,5.781,No,Pass,55.73,3.221,1.94,No,Ready,153.2529,Elevated,60.8722,Elevated,High Inflammatory Risk
+P041,46,Female,Neurological,9.399,No,Pass,56.73,5.332,4.95,No,Ready,27.0884,Elevated,13.7082,Elevated,High Inflammatory Risk
+P042,55,Female,Abdominal,8.16,No,Pass,58.22,4.751,6.35,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P043,32,Male,Thoracic,6.053,No,Pass,57.48,3.48,8.8,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P044,50,Female,Abdominal,6.726,No,Pass,59.95,4.032,9.03,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P045,40,Male,Orthopedic,5.8,No,Pass,63.24,3.668,3.07,No,Ready,8.4727,Normal,5.198,Normal,Normal
+P046,68,Male,Orthopedic,7.222,No,Pass,63.54,4.589,7.53,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P047,59,Female,Thoracic,5.419,No,Pass,60.96,3.303,2.82,No,Ready,87.3284,Elevated,93.2278,Elevated,High Inflammatory Risk
+P048,57,Female,Orthopedic,5.827,No,Pass,57.4,3.345,3.69,No,Ready,188.8288,Elevated,104.8097,Elevated,High Inflammatory Risk
+P049,31,Male,Abdominal,5.986,No,Pass,56.86,3.404,2.93,No,Ready,67.0899,Elevated,55.3507,Elevated,High Inflammatory Risk
+P050,48,Female,Orthopedic,8.455,No,Pass,62.43,5.279,4.14,No,Ready,19.3463,Elevated,11.4367,Elevated,High Inflammatory Risk
+P051,75,Female,Thoracic,7.869,No,Pass,57.37,4.515,2.15,No,Ready,90.0695,Elevated,21.1563,Elevated,High Inflammatory Risk
+P052,73,Female,Orthopedic,9.367,No,Pass,60.39,5.657,3.19,No,Ready,148.2041,Elevated,19.6949,Elevated,High Inflammatory Risk
+P053,57,Female,Orthopedic,6.223,No,Pass,62.49,3.889,1.22,No,Ready,175.8939,Elevated,104.9793,Elevated,High Inflammatory Risk
+P054,32,Male,Neurological,8.148,No,Pass,57.28,4.667,9.63,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P055,57,Female,Cardiac,5.172,No,Pass,56.75,2.935,5.04,No,Ready,147.5211,Elevated,63.5067,Elevated,High Inflammatory Risk
+P056,53,Female,Cardiac,7.581,No,Pass,55.4,4.2,9.23,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P057,48,Male,Thoracic,9.316,No,Pass,56.48,5.261,7.46,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P058,46,Male,Neurological,9.921,No,Pass,63.51,6.301,4.58,No,Ready,21.9744,Elevated,8.3997,Elevated,High Inflammatory Risk
+P059,55,Female,Abdominal,5.049,No,Pass,56.05,2.83,7.55,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P060,68,Female,Orthopedic,6.264,No,Pass,57.24,3.585,6.28,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P061,63,Female,Neurological,6.119,No,Pass,55.33,3.386,3.04,No,Ready,163.5493,Elevated,96.5059,Elevated,High Inflammatory Risk
+P062,54,Male,Neurological,5.238,No,Pass,61.76,3.235,5.22,No,Ready,47.9951,Elevated,44.9599,Elevated,High Inflammatory Risk
+P063,72,Male,Orthopedic,5.051,No,Pass,57.32,2.895,7.12,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P064,28,Female,Cardiac,7.451,No,Pass,59.14,4.406,3.05,No,Ready,81.917,Elevated,50.0587,Elevated,High Inflammatory Risk
+P065,75,Male,Thoracic,5.227,No,Pass,56.39,2.948,0.13,No,Ready,121.9962,Elevated,14.5856,Elevated,High Inflammatory Risk
+P066,27,Male,Abdominal,6.392,No,Pass,58.77,3.757,2.68,No,Ready,138.7945,Elevated,32.1795,Elevated,High Inflammatory Risk
+P067,35,Female,Neurological,8.2,No,Pass,59.24,4.858,7.97,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P068,46,Male,Orthopedic,6.473,No,Pass,59.73,3.867,9.3,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P069,30,Female,Abdominal,6.348,No,Pass,59.23,3.76,6.25,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P070,56,Female,Abdominal,7.953,No,Pass,56.03,4.456,1.33,No,Ready,94.9633,Elevated,59.5982,Elevated,High Inflammatory Risk
+P071,27,Male,Orthopedic,6.903,No,Pass,62.73,4.33,7.58,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P072,39,Female,Cardiac,8.513,No,Pass,56.37,4.799,5.27,No,Ready,82.7708,Elevated,52.1608,Elevated,High Inflammatory Risk
+P073,28,Female,Orthopedic,7.481,No,Pass,59.24,4.432,7.54,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P074,60,Female,Cardiac,8.166,No,Pass,57.72,4.713,8.59,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P075,59,Female,Orthopedic,6.767,No,Pass,58.01,3.926,9.48,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P076,44,Male,Neurological,6.435,No,Pass,61.72,3.972,6.55,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P077,34,Female,Neurological,5.666,No,Pass,60.18,3.41,8.54,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P078,63,Female,Neurological,9.685,No,Pass,56.9,5.511,7.43,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P079,42,Male,Cardiac,9.024,No,Pass,59.69,5.387,7.27,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P080,65,Male,Neurological,9.69,No,Pass,58.4,5.659,8.59,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P081,49,Female,Abdominal,5.927,No,Pass,62.04,3.677,9.23,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P082,51,Male,Orthopedic,9.666,Yes,Pass,57.26,5.535,9.02,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P083,26,Male,Cardiac,9.679,No,Pass,63.45,6.141,3.96,No,Ready,52.4551,Elevated,17.4943,Elevated,High Inflammatory Risk
+P084,57,Male,Cardiac,6.418,No,Pass,60.26,3.867,0.84,No,Ready,119.2262,Elevated,75.5454,Elevated,High Inflammatory Risk
+P085,42,Female,Thoracic,6.373,No,Pass,60.01,3.824,8.3,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P086,36,Female,Thoracic,7.757,No,Pass,57.54,4.463,5.39,No,Ready,5.365,Normal,5.1188,Normal,Normal
+P087,47,Female,Thoracic,5.926,No,Pass,56.86,3.37,5.42,No,Ready,9.5913,Normal,17.115,Elevated,TNF-a Dominant Inflammation
+P088,44,Male,Orthopedic,7.211,Yes,Fail,59.72,0,8.25,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P089,48,Female,Neurological,5.927,No,Pass,64.82,3.842,0.32,No,Ready,5.6026,Normal,11.5428,Elevated,TNF-a Dominant Inflammation
+P090,74,Female,Abdominal,9.737,No,Pass,56.33,5.485,8.78,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P091,43,Female,Thoracic,7.469,No,Pass,57.83,4.32,0.35,No,Ready,18.0442,Elevated,7.3684,Normal,IL-6 Dominant Inflammation
+P092,64,Male,Abdominal,9.82,No,Pass,63.01,6.187,6.93,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P093,53,Female,Abdominal,8.225,No,Pass,61.65,5.07,5.87,No,Ready,83.1111,Elevated,115.5023,Elevated,High Inflammatory Risk
+P094,70,Female,Neurological,7.422,No,Pass,57.79,4.289,6.42,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P095,43,Female,Cardiac,9.838,No,Pass,58.15,5.721,3.74,No,Ready,119.6019,Elevated,81.8004,Elevated,High Inflammatory Risk
+P096,37,Male,Abdominal,5.716,No,Pass,59.2,3.384,2.75,No,Ready,108.3332,Elevated,81.1315,Elevated,High Inflammatory Risk
+P097,71,Female,Orthopedic,8.162,No,Pass,61.03,4.981,5.09,No,Ready,128.9451,Elevated,25.9691,Elevated,High Inflammatory Risk
+P098,27,Male,Neurological,8.309,No,Pass,62.19,5.168,8.86,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P099,73,Male,Thoracic,7.169,No,Pass,63.57,4.558,5.65,No,Ready,80.2425,Elevated,60.6477,Elevated,High Inflammatory Risk
+P100,53,Female,Orthopedic,5.297,Yes,Pass,61.81,3.274,6.63,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P101,44,Female,Orthopedic,7.464,No,Pass,57.37,4.282,4.41,No,Ready,4.8346,Normal,7.7615,Normal,Normal
+P102,75,Female,Neurological,7.326,No,Pass,64.26,4.707,9.72,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P103,27,Female,Neurological,9.034,No,Pass,62.81,5.674,7.43,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P104,51,Female,Orthopedic,6.283,No,Pass,58.07,3.649,3.55,No,Ready,61.0655,Elevated,103.2253,Elevated,High Inflammatory Risk
+P105,26,Female,Neurological,6.957,No,Pass,58.05,4.039,6.54,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P106,54,Male,Abdominal,6.201,No,Pass,63.81,3.957,5.43,No,Ready,81.4653,Elevated,34.9468,Elevated,High Inflammatory Risk
+P107,34,Male,Cardiac,8.432,No,Pass,56.26,4.744,8.84,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P108,57,Female,Abdominal,9.949,No,Pass,61.33,6.102,2.75,No,Ready,93.4727,Elevated,85.137,Elevated,High Inflammatory Risk
+P109,75,Male,Orthopedic,5.887,No,Pass,57.78,3.401,1.08,No,Ready,31.812,Elevated,29.8802,Elevated,High Inflammatory Risk
+P110,69,Male,Orthopedic,9.107,No,Pass,63.27,5.762,1.91,No,Ready,144.9752,Elevated,92.7482,Elevated,High Inflammatory Risk
+P111,48,Female,Thoracic,6.155,No,Pass,58.65,3.61,3.87,No,Ready,19.5326,Elevated,18.084,Elevated,High Inflammatory Risk
+P112,61,Male,Neurological,5.29,No,Pass,62.33,3.297,8.54,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P113,64,Male,Abdominal,5.694,No,Pass,56.92,3.241,2.71,No,Ready,50.384,Elevated,87.3903,Elevated,High Inflammatory Risk
+P114,50,Female,Neurological,9.676,No,Pass,59.81,5.788,6.26,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P115,51,Male,Abdominal,9.443,No,Pass,63.04,5.952,6.24,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P116,32,Male,Neurological,6.446,No,Pass,58.97,3.801,4.08,No,Ready,28.5178,Elevated,3.5148,Normal,IL-6 Dominant Inflammation
+P117,43,Male,Thoracic,9.739,Yes,Pass,56.62,5.514,0.5,No,Rejected,0,Normal,0,Normal,Sample Rejected
+P118,32,Female,Thoracic,9.25,No,Pass,61.49,5.688,7.45,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P119,62,Female,Cardiac,7.173,No,Pass,62.53,4.486,2.96,No,Ready,63.8775,Elevated,70.1353,Elevated,High Inflammatory Risk
+P120,49,Male,Orthopedic,7.34,No,Pass,57.8,4.243,3.98,No,Ready,11.3236,Elevated,14.3128,Elevated,High Inflammatory Risk
+P121,47,Female,Cardiac,8.149,No,Fail,59.51,0,3.77,No,Rejected,0,Normal,0,Normal,Sample Rejected
+P122,70,Female,Thoracic,5.79,No,Pass,64,3.706,6.64,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P123,51,Male,Orthopedic,5.074,No,Pass,63.72,3.233,0.86,No,Ready,30.3622,Elevated,27.6841,Elevated,High Inflammatory Risk
+P124,45,Female,Neurological,6.328,No,Pass,62.07,3.928,5.5,No,Ready,22.4871,Elevated,19.9124,Elevated,High Inflammatory Risk
+P125,38,Male,Cardiac,5.077,No,Pass,60.91,3.092,0.15,No,Ready,187.3191,Elevated,109.1174,Elevated,High Inflammatory Risk
+P126,28,Male,Orthopedic,8.372,No,Pass,63.17,5.289,9.83,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P127,46,Male,Abdominal,7.757,No,Pass,64.08,4.971,5.98,No,Ready,42.9938,Elevated,26.0522,Elevated,High Inflammatory Risk
+P128,26,Male,Cardiac,6.608,No,Pass,55.03,3.636,3.84,No,Ready,33.0077,Elevated,69.6794,Elevated,High Inflammatory Risk
+P129,39,Female,Orthopedic,8.901,No,Pass,58.97,5.249,1.47,No,Ready,27.4746,Elevated,11.1358,Elevated,High Inflammatory Risk
+P130,50,Female,Abdominal,5.729,No,Pass,60.61,3.473,6.97,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P131,74,Male,Orthopedic,6.224,No,Pass,62.34,3.88,9.06,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P132,30,Female,Abdominal,6.462,No,Pass,55.87,3.61,3.18,No,Ready,160.7088,Elevated,30.7299,Elevated,High Inflammatory Risk
+P133,59,Female,Abdominal,5.98,No,Pass,59,3.528,7.66,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P134,50,Female,Orthopedic,5.44,No,Pass,57.8,3.144,2.87,No,Ready,26.8933,Elevated,4.2485,Normal,IL-6 Dominant Inflammation
+P135,64,Female,Neurological,9.35,Yes,Pass,59.24,5.538,9.57,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P136,32,Male,Neurological,5.441,No,Pass,59.98,3.263,7.02,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P137,29,Male,Neurological,8.419,No,Pass,61.6,5.186,6.25,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P138,45,Male,Abdominal,5.602,No,Pass,59.96,3.359,9.31,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P139,65,Female,Orthopedic,5.053,No,Pass,61.2,3.093,2.69,No,Ready,29.8575,Elevated,56.364,Elevated,High Inflammatory Risk
+P140,34,Male,Neurological,7.786,No,Pass,60.82,4.736,9.24,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P141,64,Female,Thoracic,9.536,No,Pass,59.28,5.653,6.78,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P142,39,Female,Abdominal,9.302,No,Pass,55.05,5.121,7.71,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P143,36,Female,Thoracic,6.692,No,Pass,56.95,3.811,5.72,No,Ready,17.6531,Elevated,19.9148,Elevated,High Inflammatory Risk
+P144,25,Female,Abdominal,5.136,No,Pass,58.2,2.989,8.34,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P145,45,Male,Neurological,9.004,No,Pass,56.47,5.085,6.98,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P146,44,Female,Cardiac,9.03,No,Pass,60.99,5.507,1.47,No,Ready,36.5157,Elevated,40.131,Elevated,High Inflammatory Risk
+P147,58,Female,Neurological,9.342,No,Pass,61.11,5.71,6.12,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P148,28,Female,Abdominal,8.348,No,Pass,60,5.009,2.79,No,Ready,38.9193,Elevated,52.9484,Elevated,High Inflammatory Risk
+P149,32,Male,Cardiac,9.039,No,Pass,58.21,5.261,9.16,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P150,25,Male,Orthopedic,9.487,No,Pass,61.53,5.838,1.98,No,Ready,9.6703,Normal,10.766,Elevated,TNF-a Dominant Inflammation
+P151,30,Male,Abdominal,7.269,No,Pass,56.9,4.136,2.86,No,Ready,82.6862,Elevated,112.1051,Elevated,High Inflammatory Risk
+P152,58,Male,Neurological,7.789,No,Pass,55.06,4.289,0.48,No,Ready,162.1906,Elevated,104.7113,Elevated,High Inflammatory Risk
+P153,45,Female,Cardiac,7.531,Yes,Pass,62.35,4.695,4.48,No,Rejected,0,Normal,0,Normal,Sample Rejected
+P154,41,Female,Abdominal,8.46,Yes,Pass,59.44,5.028,5.58,No,Rejected,0,Normal,0,Normal,Sample Rejected
+P155,53,Female,Thoracic,8.415,No,Pass,61.98,5.215,5.74,No,Ready,43.3102,Elevated,73.2577,Elevated,High Inflammatory Risk
+P156,75,Male,Neurological,7.602,No,Pass,56.85,4.322,9.05,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P157,67,Male,Thoracic,9.142,No,Pass,55.63,5.086,3.47,No,Ready,58.6609,Elevated,105.5062,Elevated,High Inflammatory Risk
+P158,60,Male,Cardiac,7.529,No,Pass,58.78,4.426,4.48,No,Ready,22.7035,Elevated,21.6319,Elevated,High Inflammatory Risk
+P159,71,Male,Orthopedic,9.124,No,Pass,61.96,5.653,8.51,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P160,27,Male,Thoracic,6.409,No,Pass,56.03,3.591,5.77,No,Ready,12.2817,Elevated,8.5419,Elevated,High Inflammatory Risk
+P161,28,Female,Neurological,5.892,No,Pass,56.96,3.356,6.54,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P162,49,Female,Abdominal,9.849,No,Pass,59.54,5.864,2.78,No,Ready,69.8996,Elevated,20.5669,Elevated,High Inflammatory Risk
+P163,42,Female,Thoracic,8.71,No,Pass,61.21,5.331,4.87,No,Ready,4.5619,Normal,6.8589,Normal,Normal
+P164,72,Male,Thoracic,6.299,Yes,Pass,62.5,3.937,6.21,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P165,49,Male,Thoracic,7.906,No,Pass,56.1,4.435,1.33,No,Ready,29.5238,Elevated,4.6481,Normal,IL-6 Dominant Inflammation
+P166,52,Male,Thoracic,9.776,No,Pass,61.25,5.988,0.33,No,Ready,154.5105,Elevated,38.4008,Elevated,High Inflammatory Risk
+P167,70,Male,Cardiac,5.404,No,Pass,58.87,3.181,1.13,No,Ready,26.7032,Elevated,11.7657,Elevated,High Inflammatory Risk
+P168,47,Male,Cardiac,5.418,No,Pass,61.7,3.343,4.77,No,Ready,47.4871,Elevated,60.8293,Elevated,High Inflammatory Risk
+P169,69,Male,Cardiac,8.096,No,Pass,57.04,4.617,0.24,No,Ready,156.0622,Elevated,90.1696,Elevated,High Inflammatory Risk
+P170,37,Female,Cardiac,6.122,No,Pass,60.28,3.691,6.26,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P171,38,Female,Thoracic,8.826,No,Pass,56.72,5.006,0.98,No,Ready,11.5717,Elevated,10.0828,Elevated,High Inflammatory Risk
+P172,41,Male,Cardiac,7.841,No,Pass,55.19,4.327,2.51,No,Ready,166.5333,Elevated,102.2243,Elevated,High Inflammatory Risk
+P173,52,Female,Thoracic,8.331,No,Pass,59.87,4.988,4.26,No,Ready,77.585,Elevated,10.4692,Elevated,High Inflammatory Risk
+P174,36,Male,Neurological,5.539,No,Pass,56.84,3.149,1.16,No,Ready,2.4079,Normal,15.2561,Elevated,TNF-a Dominant Inflammation
+P175,59,Female,Abdominal,5.421,No,Pass,61.38,3.328,2.71,No,Ready,69.0738,Elevated,62.9634,Elevated,High Inflammatory Risk
+P176,32,Female,Orthopedic,8.126,No,Pass,60.37,4.905,0.21,No,Ready,6.7609,Normal,17.4423,Elevated,TNF-a Dominant Inflammation
+P177,29,Female,Orthopedic,7.049,No,Pass,62.75,4.423,9.85,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P178,69,Male,Orthopedic,5.436,No,Pass,58.93,3.204,6.12,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P179,37,Female,Thoracic,6.855,No,Pass,64.89,4.449,3.78,No,Ready,16.1013,Elevated,11.0432,Elevated,High Inflammatory Risk
+P180,44,Female,Neurological,8.361,No,Pass,60.15,5.029,0.27,No,Ready,9.6424,Normal,10.74,Elevated,TNF-a Dominant Inflammation
+P181,54,Male,Cardiac,5.948,No,Pass,59.79,3.556,3.9,No,Ready,20.3535,Elevated,40.5025,Elevated,High Inflammatory Risk
+P182,51,Female,Abdominal,9.479,No,Pass,62.49,5.924,4.53,No,Ready,82.7773,Elevated,41.2346,Elevated,High Inflammatory Risk
+P183,28,Female,Orthopedic,9.749,No,Pass,60.73,5.92,9.31,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P184,69,Male,Cardiac,9.808,No,Pass,58.62,5.75,2.79,No,Ready,35.4714,Elevated,67.3959,Elevated,High Inflammatory Risk
+P185,73,Female,Thoracic,8.65,No,Pass,59.89,5.181,6.15,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P186,66,Female,Neurological,7.031,No,Pass,56.89,4,6.65,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P187,39,Male,Orthopedic,8.719,No,Pass,58.94,5.138,1.86,No,Ready,24.6544,Elevated,19.352,Elevated,High Inflammatory Risk
+P188,51,Female,Neurological,6.44,No,Pass,55.3,3.561,5.06,No,Ready,109.5122,Elevated,75.3129,Elevated,High Inflammatory Risk
+P189,42,Male,Orthopedic,6.572,No,Pass,59.63,3.919,7.87,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P190,53,Female,Orthopedic,8.029,No,Pass,57.74,4.637,0.97,No,Ready,72.3548,Elevated,26.4075,Elevated,High Inflammatory Risk
+P191,74,Female,Thoracic,7.974,No,Pass,60.27,4.806,6.06,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P192,40,Male,Thoracic,9.393,No,Pass,55.29,5.194,0.26,No,Ready,4.9562,Normal,15.1472,Elevated,TNF-a Dominant Inflammation
+P193,59,Male,Abdominal,6.273,No,Pass,60.55,3.798,0.07,No,Ready,152.2045,Elevated,29.7285,Elevated,High Inflammatory Risk
+P194,41,Female,Thoracic,8.831,No,Pass,57.93,5.116,0.6,No,Ready,13.4068,Elevated,12.3829,Elevated,High Inflammatory Risk
+P195,64,Female,Thoracic,9.705,No,Pass,60.77,5.898,4.81,No,Ready,42.5508,Elevated,96.3906,Elevated,High Inflammatory Risk
+P196,41,Female,Abdominal,5.005,No,Pass,62.33,3.12,9.26,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P197,70,Female,Orthopedic,7.38,No,Pass,59.4,4.384,4.06,No,Ready,131.5986,Elevated,77.6744,Elevated,High Inflammatory Risk
+P198,63,Female,Neurological,8.285,No,Pass,61.63,5.106,0.75,No,Ready,146.2175,Elevated,118.5901,Elevated,High Inflammatory Risk
+P199,63,Female,Abdominal,9.217,No,Pass,57.39,5.289,8.61,Yes,Rejected,0,Normal,0,Normal,Sample Rejected
+P200,48,Male,Neurological,5.919,No,Pass,64.99,3.846,5.19,No,Ready,17.8718,Elevated,17.7883,Elevated,High Inflammatory Risk
